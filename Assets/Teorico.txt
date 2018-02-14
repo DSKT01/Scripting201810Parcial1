@@ -1,0 +1,12 @@
+Diego Rodriguez Garcia
+
+1)
+	a) significa que los dos vectores A y B tienen direcciones contrarias.
+	b) significa que los vectores A y B tienen direcciones Perpendiculares.
+2) Una inteligencia artificial que cambie su comportamiento cuando detecte al jugador dentro de la zona del spherecast.
+3)
+	a) las tres leyes de Newton sobre el movimiento.
+	b) el impulso solo se aplica la fuerza una vez, mientras que la aceleracion es contante sobre el objeto.
+	c) solo necesitaria usar el collider, al menos que necesite que la superficie se comporte con atributos fisicos de movimiento, ya que podria simular viscosidad con materiales fisicos de Unity.
+4) Si se mueve un objeto cambiando su poscision puede generar problemas con las fisicas y los colliders ya que cada frame el objeto intentara cambiar su poscision sin importar que es lo que tenga al frente,
+en cambio cuando se usan fuerzas el objeto hara los calculos necesarios cada ciertos frames para proyectar su movimiento siguiendo leyes fisicas.
