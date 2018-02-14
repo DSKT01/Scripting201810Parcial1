@@ -10,3 +10,6 @@ Diego Rodriguez Garcia
 	c) solo necesitaria usar el collider, al menos que necesite que la superficie se comporte con atributos fisicos de movimiento, ya que podria simular viscosidad con materiales fisicos de Unity.
 4) Si se mueve un objeto cambiando su poscision puede generar problemas con las fisicas y los colliders ya que cada frame el objeto intentara cambiar su poscision sin importar que es lo que tenga al frente,
 en cambio cuando se usan fuerzas el objeto hara los calculos necesarios cada ciertos frames para proyectar su movimiento siguiendo leyes fisicas.
+
+
+Falto: Ganar La partida(pulir controlador del juego)
