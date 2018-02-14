@@ -12,4 +12,7 @@ Diego Rodriguez Garcia
 en cambio cuando se usan fuerzas el objeto hara los calculos necesarios cada ciertos frames para proyectar su movimiento siguiendo leyes fisicas.
 
 
-Falto: Ganar La partida(pulir controlador del juego)
+Falto: 
+-Ganar La partida(pulir controlador del juego)
+-Bonificacion ganar vida
+-Bloque indestructible
