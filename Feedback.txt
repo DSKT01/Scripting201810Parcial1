@@ -1,0 +1,19 @@
+Feedback.
+
+Componente Teórico (1.65)
+1. OK (0.5)
+2. Podría funcionar, pero esto se logra mejor con un sphere collider. Un spherecast funciona para ver qué hay dentro del volúmen, no para identificar qué entra (0.3)
+3. En el numeral 'c', no es del todo cierto. Los materiales físicos sólo funcionan para alterar el comportamiento de los objetos que colisionan con él y que vayan a rebotar. Las superficies viscosas no funcionan como sólidos en el mundo real, y por eso, el modelo de rigidbodies no les aplica (0.35)
+4. OK (0.5)
+
+Componente Práctico (1.7)
+1. En teoría está, pero no hay nada ensamblado para probar (0.5)
+2. Existen como prefabs (1.0)
+3. El controlador no determina la victoria correctamente (0.5)
+* No hay un nivel en qué probar la implementación.
+* Por qué el juego espera que el jugador gane 5 puntos? Si pongo bloques cuya "vida" sumen más de 5, con uno solo de destruya gano el juego.
+* Descuento 0.3 por no usar OOP en los bloques. Si quisiera cambiar la cantidad de golpes de los bloques de un tipo, tendría que cambiar cada instancia.
+
+Total Examen: 3.35
+Bonus: 0.1
+Total: 3.45
